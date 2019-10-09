@@ -22,4 +22,4 @@ A repo of four Google Script codes to enhance Google Sheets functionality. Uses 
   Authority checker for more expensive meals using dialogue pop-up compared with column B.
   
   
-NOTE: Because you cannot directly download from Google Scripts, I saved these as .rtfs. Please take from them and copy and paste into Google Scripts.
+NOTE: Because you cannot directly download from Google Scripts, I saved these as .rtfs/.docxs. Please take from them and copy and paste into Google Scripts.
