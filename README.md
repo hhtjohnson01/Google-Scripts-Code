@@ -20,3 +20,6 @@ A repo of four Google Script codes to enhance Google Sheets functionality. Uses 
   Picks random restaurant from list (column A) for a meal from Spreadsheet.
   Checks to make sure the restaurant has not been eaten at for at least a week.
   Authority checker for more expensive meals using dialogue pop-up compared with column B.
+  
+  
+NOTE: Because you cannot directly download from Google Scripts, I saved these as .rtfs. Please take from them and copy and paste into Google Scripts.
